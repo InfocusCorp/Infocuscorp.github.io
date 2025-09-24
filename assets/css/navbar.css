@@ -63,7 +63,7 @@
     cursor: pointer;
     background: none;
     border: none;
-    color: #3a98fc; /* Customizable color */
+    color: #000000; /* Customizable color */
 }
 
 
@@ -117,7 +117,7 @@
 .overlay-content {
     width: 50%;
     height: 100%;
-    background: #215379;
+    background: #000000;
     color: white;
     display: flex;
     flex-direction: column;
