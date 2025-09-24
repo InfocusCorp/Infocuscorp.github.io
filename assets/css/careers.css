@@ -5,7 +5,7 @@
     left: 0;
     width: 75%;
     height: 100%;
-    background: linear-gradient(to right, #215379 50%, rgba(10, 52, 102, 0.7) 70%, rgba(10, 52, 102, 0) 100%);
+    background: linear-gradient(to right, #000000 50%, rgba(0, 0, 0, 0.7) 70%, rgba(0, 0, 0, 0) 100%);
     transition: all 0.3s ease;
 }
 
@@ -53,13 +53,13 @@
 }
 
 #career-apply {
-    background-color: #007bff;
+    background-color: #000000;
     color: white;
-    border: 3px solid #007bff;
+    border: 2px solid #ffffff;
 }
 
 #career-apply:hover {
-    background-color: #0056b3;
+    background-color: #3e3e3e;
 }
 
 #career-know-more {

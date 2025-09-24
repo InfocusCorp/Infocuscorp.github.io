@@ -29,7 +29,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 650;
     font-size: 96px;
-    color: #003A63;
+    color: #000000;
     margin: 0;
 }
 
@@ -37,7 +37,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 46px;
-    color: #003A63;
+    color: #000000;
     margin: 0;
 }
 
@@ -45,7 +45,7 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 20px;
-    color: #003a63bb;
+    color: #000000bb;
     margin: 10px 0 20px 0;
 }
 
@@ -66,13 +66,13 @@
 }
 
 #home-apply {
-    background-color: #007bff;
+    background-color: #000000;
     color: white;
-    border: 3px solid #007bff;
+    border: 3px solid #242424;
 }
 
 #home-apply:hover {
-    background-color: #0056b3;
+    background-color: #40444a;
 }
 
 #home-know-more {
