@@ -117,8 +117,8 @@
 .overlay-content {
     width: 50%;
     height: 100%;
-    background: #000000;
-    color: white;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -135,7 +135,7 @@
 }
 
 .overlay-content a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 20px;
 }
