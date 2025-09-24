@@ -82,7 +82,7 @@
 
     #career-overlay {
         width: 100% !important;
-        background: linear-gradient(to bottom, #215379 35%, rgba(10, 52, 102, 0.5) 60%, rgba(10, 52, 102, 0) 100%) !important;
+        background: linear-gradient(to bottom, #000000 35%, rgba(0, 0, 0, 0.5) 60%, rgba(0, 0, 0, 0) 100%) !important;
     }
 
     #career-text-content {
@@ -128,7 +128,7 @@
 
     #career-overlay {
         width: 100% !important;
-        background: linear-gradient(to bottom, #215379 35%, rgba(10, 52, 102, 0.5) 60%, rgba(10, 52, 102, 0) 100%) !important;
+        background: linear-gradient(to bottom, #000000 35%, rgba(0, 0, 0, 0.5) 60%, rgba(0, 0, 0, 0) 100%) !important;
     }
 
     #career-text-content {
@@ -179,7 +179,7 @@
 
     #career-overlay {
         width: 100% !important;
-        background: linear-gradient(to bottom, #215379 35%, rgba(10, 52, 102, 0.5) 60%, rgba(10, 52, 102, 0) 100%) !important;
+        background: linear-gradient(to bottom, #000000 35%, rgba(0, 0, 0, 0.5) 60%, rgba(0, 0, 0, 0) 100%) !important;
     }
 
     #career-text-content {
